@@ -1,0 +1,6 @@
+n_estimators,max_depth,model_size_kb,per_sample_latency_ms,accuracy_on_train,accuracy_on_test,balanced_accuracy_on_test
+10,3,15.5166,0.0065,0.6956,0.5942,0.5129
+50,5,193.2588,0.0158,0.7491,0.6498,0.5903
+100,None,6178.0146,0.0365,1.0,0.756,0.7256
+200,None,12364.4004,0.0649,1.0,0.7599,0.7297
+400,None,24638.2402,0.1496,1.0,0.7649,0.736
