@@ -1,0 +1,19 @@
+,accuracy,balanced_accuracy,mcc,precision,recall,f1
+high_stress / Majority class (all negative),0.7138,0.5,0.0,0.0,0.0,0.0
+high_stress / MES only,0.5813,0.4918,-0.0162,0.2749,0.2825,0.2786
+high_stress / Speech only,0.628,0.552,0.1026,0.357,0.3744,0.3655
+high_stress / Wearable only,0.8269,0.7936,0.5811,0.6906,0.7158,0.703
+high_stress / Early fusion (all),0.8328,0.7921,0.5882,0.7128,0.6967,0.7046
+high_stress / Late fusion (soft-vote),0.8065,0.729,0.4991,0.7101,0.5477,0.6184
+low_engagement / Majority class (all negative),0.622,0.5,0.0,0.0,0.0,0.0
+low_engagement / MES only,0.7297,0.6648,0.4042,0.7775,0.399,0.5273
+low_engagement / Speech only,0.8552,0.8313,0.688,0.8627,0.7336,0.7929
+low_engagement / Wearable only,0.5878,0.4877,-0.0412,0.3155,0.0774,0.1243
+low_engagement / Early fusion (all),0.8353,0.7989,0.6471,0.8839,0.6496,0.7489
+low_engagement / Late fusion (soft-vote),0.7312,0.6508,0.4294,0.9074,0.3215,0.4748
+high_frustration / Majority class (all negative),0.7604,0.5,0.0,0.0,0.0,0.0
+high_frustration / MES only,0.7207,0.5597,0.1391,0.3758,0.2505,0.3006
+high_frustration / Speech only,0.7922,0.8158,0.5552,0.5417,0.8613,0.6651
+high_frustration / Wearable only,0.7034,0.5497,0.1107,0.3407,0.2547,0.2915
+high_frustration / Early fusion (all),0.8011,0.7246,0.4514,0.5861,0.5776,0.5819
+high_frustration / Late fusion (soft-vote),0.8016,0.6504,0.3801,0.6566,0.3602,0.4652

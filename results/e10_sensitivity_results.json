@@ -1,0 +1,60 @@
+{
+  "baseline_turnovers_mean": 8.2,
+  "replications": 5,
+  "grid": [
+    {
+      "acceptance": 0.35,
+      "stress_effect": -0.05,
+      "turnover_mean": 8.0,
+      "reduction_pct_mean": 3.277777777777778
+    },
+    {
+      "acceptance": 0.35,
+      "stress_effect": -0.07,
+      "turnover_mean": 8.0,
+      "reduction_pct_mean": 3.277777777777778
+    },
+    {
+      "acceptance": 0.35,
+      "stress_effect": -0.1,
+      "turnover_mean": 8.0,
+      "reduction_pct_mean": 3.277777777777778
+    },
+    {
+      "acceptance": 0.55,
+      "stress_effect": -0.05,
+      "turnover_mean": 7.8,
+      "reduction_pct_mean": 5.777777777777778
+    },
+    {
+      "acceptance": 0.55,
+      "stress_effect": -0.07,
+      "turnover_mean": 8.4,
+      "reduction_pct_mean": -6.222222222222222
+    },
+    {
+      "acceptance": 0.55,
+      "stress_effect": -0.1,
+      "turnover_mean": 8.0,
+      "reduction_pct_mean": -1.7777777777777761
+    },
+    {
+      "acceptance": 0.75,
+      "stress_effect": -0.05,
+      "turnover_mean": 7.8,
+      "reduction_pct_mean": 5.777777777777778
+    },
+    {
+      "acceptance": 0.75,
+      "stress_effect": -0.07,
+      "turnover_mean": 8.0,
+      "reduction_pct_mean": 1.777777777777777
+    },
+    {
+      "acceptance": 0.75,
+      "stress_effect": -0.1,
+      "turnover_mean": 7.8,
+      "reduction_pct_mean": 0.44444444444444503
+    }
+  ]
+}

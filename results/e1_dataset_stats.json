@@ -1,0 +1,23 @@
+{
+  "rows": 6720,
+  "workers": 60,
+  "class_balance": {
+    "high_stress": 0.3302083333333333,
+    "low_engagement": 0.2755952380952381,
+    "high_frustration": 0.25223214285714285
+  },
+  "feature_list": [
+    "task_completion_variance",
+    "help_button_presses",
+    "error_corrections",
+    "negative_word_count",
+    "transcript_length",
+    "hrv_rmssd",
+    "task_completion_variance_dev",
+    "help_button_presses_dev",
+    "error_corrections_dev",
+    "negative_word_count_dev",
+    "transcript_length_dev",
+    "hrv_rmssd_dev"
+  ]
+}

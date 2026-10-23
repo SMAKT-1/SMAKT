@@ -1,0 +1,4 @@
+workers,train_rows,train_time_s,model_size_kb,per_cycle_inference_ms,ms_per_worker,mean_accuracy
+30,1176,0.8976,13492.0996,101.3805,3.3793,0.7341
+150,5880,1.4476,55892.6934,136.1806,0.9079,0.8438
+500,19600,3.7908,174836.3086,148.9679,0.2979,0.8417

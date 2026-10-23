@@ -1,0 +1,5 @@
+scenario,high_stress_acc,low_engagement_acc,high_frustration_acc,high_stress_acc_graceful,low_engagement_acc_graceful,high_frustration_acc_graceful
+all_modalities,0.8214,0.8462,0.8328,,,
+wearable_offline,0.2897,0.8199,0.8542,0.6801,0.8576,0.8323
+speech_offline,0.7827,0.379,0.7564,0.6384,0.7783,0.6662
+mes_offline,0.7927,0.6984,0.7892,0.8239,0.8591,0.8264

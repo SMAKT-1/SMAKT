@@ -1,0 +1,17 @@
+{
+  "accuracy_pre_drift": 0.8341666666666666,
+  "accuracy_post_drift": 0.5914285714285714,
+  "relative_drop_pct": 29.09947195661481,
+  "drift_detected": true,
+  "accuracy_after_adaptive_update": 0.8224867724867725,
+  "detector_evaluation": {
+    "replicated_pairs": 20,
+    "detection_rate_drifted": 1.0,
+    "false_alarm_rate_undrifted": 0.0,
+    "psi_label_free": {
+      "threshold": 0.25,
+      "detection_rate_drifted": 1.0,
+      "false_alarm_rate_undrifted": 0.0
+    }
+  }
+}

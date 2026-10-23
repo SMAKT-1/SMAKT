@@ -1,0 +1,77 @@
+{
+  "days": 10,
+  "first_alarm_day": 2,
+  "final_shift_accuracy": 0.518,
+  "profile": [
+    {
+      "day": 1,
+      "shift_alpha": 0.1,
+      "psi_max": 0.155,
+      "psi_alarm": false,
+      "accuracy": 0.698
+    },
+    {
+      "day": 2,
+      "shift_alpha": 0.2,
+      "psi_max": 0.507,
+      "psi_alarm": true,
+      "accuracy": 0.712
+    },
+    {
+      "day": 3,
+      "shift_alpha": 0.3,
+      "psi_max": 1.985,
+      "psi_alarm": true,
+      "accuracy": 0.672
+    },
+    {
+      "day": 4,
+      "shift_alpha": 0.4,
+      "psi_max": 3.946,
+      "psi_alarm": true,
+      "accuracy": 0.655
+    },
+    {
+      "day": 5,
+      "shift_alpha": 0.5,
+      "psi_max": 2.508,
+      "psi_alarm": true,
+      "accuracy": 0.658
+    },
+    {
+      "day": 6,
+      "shift_alpha": 0.6,
+      "psi_max": 7.86,
+      "psi_alarm": true,
+      "accuracy": 0.637
+    },
+    {
+      "day": 7,
+      "shift_alpha": 0.7,
+      "psi_max": 6.324,
+      "psi_alarm": true,
+      "accuracy": 0.543
+    },
+    {
+      "day": 8,
+      "shift_alpha": 0.8,
+      "psi_max": 8.037,
+      "psi_alarm": true,
+      "accuracy": 0.595
+    },
+    {
+      "day": 9,
+      "shift_alpha": 0.9,
+      "psi_max": 10.125,
+      "psi_alarm": true,
+      "accuracy": 0.578
+    },
+    {
+      "day": 10,
+      "shift_alpha": 1.0,
+      "psi_max": 11.307,
+      "psi_alarm": true,
+      "accuracy": 0.518
+    }
+  ]
+}
